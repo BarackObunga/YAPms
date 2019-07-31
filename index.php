@@ -218,10 +218,19 @@
 			<div class="map-button">
 				2016 Presidential
 			</div>
+                </a>
+		<a href="./app/?t=2016_presidential_county">
+			<div class="map-button">
+				2016 Presidential County
+			</div>
 		</a>
 		<a href="./app/?t=2012_presidential">
 			<div class="map-button">
 				2012 Presidential
+			</div>
+		<a href="./app/?t=2012_presidential_county">
+			<div class="map-button">
+				2012 Presidential County
 			</div>
 		</a>
 		<a href="./app/?t=2008_presidential">
