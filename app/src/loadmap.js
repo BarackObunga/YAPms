@@ -94,6 +94,9 @@ function loadMapFromId(id) {
 		case "2016_presidential_county":
 			loadPresetMap(id);
 			break;
+                case "2012_presidential_county":
+			loadPresetMap(id);
+			break;
 		case "2020_presidential_popular":
 			loadMap("./res/usa_presidential.svg", 16, 1, "usa_voting_pop", "usapopular", "open", {updateText: false});
 			break;
