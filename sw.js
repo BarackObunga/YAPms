@@ -42,6 +42,7 @@ self.addEventListener('install', function(event) {
 				'./app/res/presets/current_congress',
 				'./app/res/presets/2016_presidential_county',
 				'./app/res/presets/2016_presidential',
+                                './app/res/presets/2012_presidential_county',
 				'./app/res/presets/2012_presidential',
 				'./app/res/presets/2008_presidential',
 				'./app/res/presets/2004_presidential',
